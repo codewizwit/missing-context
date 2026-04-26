@@ -1,14 +1,14 @@
 # The Missing Context
 
-An epic tale of devs working through Claude. A short scroll-driven story about what working with Claude actually looks like.
+An epic tale of devs working through Claude.
 
 **Read it →** [codewizwit.github.io/missing-context](https://codewizwit.github.io/missing-context/)
 
 Five minutes. Best on desktop.
 
-## What's in it
+## What it is
 
-A first-person team narrative covering the journey from "Claude keeps getting things wrong" to "the planning, designing, and delegating becomes the work." Twelve scroll beats. Self-contained single-file HTML.
+A short illustrated scroll-story about what gets in the way of using Claude well. It follows a small team through the week of corrections most engineers will recognize, same prompt, same wrong stack, same conventions typed into a fresh chat every morning, and into the moment they realize the whole thing turns on whether anyone wrote the rules down. The piece runs about five minutes, with a sim-style character at a smoking stove, an animated rules file, a self-correcting blueprint, and a chart that argues planning compounds in ways editing never will. It's for engineers being asked to use Claude on real work, especially ones who think "I don't want to spend my life fixing AI-generated code" is the wrong trade. The story makes the quiet case that they're right, and that the trade was never the right framing.
 
 ## Source
 
